@@ -1,0 +1,29 @@
+#top{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.links{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+
+.partone{
+  font-size: 14px;
+  font-family: Helvetica;
+  color: black;
+  text-align: center;
+}
+
+.footer{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
