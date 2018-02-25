@@ -1,4 +1,4 @@
-#top{
+.top{
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
@@ -20,10 +20,28 @@
   text-align: center;
 }
 
-.footer{
+#footer{
   font-family: Helvetica;
   font-size: 11px;
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.headings{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+#backgrounds{
+  background-image: url(images/the-flatiron-building.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.href{
+  color: white;
 }
